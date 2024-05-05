@@ -16,3 +16,4 @@ public class GunControl : MonoBehaviour
         transform.Rotate(0, horizontal, vertical);
     }
 }
+//lol
